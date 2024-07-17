@@ -12,6 +12,6 @@
 ## Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg&theme=dark&hide_border=true" alt="Nidhi Singh Bhadoria's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg" alt="Nidhi Singh Bhadoria's streak stats" />
 </p>
 
