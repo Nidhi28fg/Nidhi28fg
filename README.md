@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 ## Contributions Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhi28fg" alt="Nidhi Singh Bhadoria's contributions graph" />
+(https://github-readme-activity-graph.cyclic.app/graph?username=Nidhi28fg")
 </p>
 ![Nidhi's contributions graph](https://activity-graph.herokuapp.com/graph?username=Nidhi28fg&theme=react-dark)
 
