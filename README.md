@@ -13,3 +13,8 @@ ________________________________________________________________________________
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg" alt="Nidhi Singh Bhadoria's streak stats" />
 </p>
 
+## Contributions Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhi28fg&theme=react-dark" alt="Nidhi Singh Bhadoria's contributions graph" />
+</p>
+
