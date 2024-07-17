@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS, Tailwind, Javascript and React.js.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...you can contant on my email-id teamguffonidhi28@gmail.com
-## GitHub Stats
+## GitHub Stats                                                                                                          ## Most Used Languages
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact)
 _____________________________________________________________________________________________________________________________________________________________________________________________
 ## Streak Stats
 <p align="center">
