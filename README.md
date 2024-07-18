@@ -4,9 +4,14 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...you can contant on my email-id teamguffonidhi28@gmail.com
 ## GitHub Stats & Most Used Languages
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true) 
+## GitHub Stats
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true)
 
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact)
+
+
+
 ## Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg" alt="Nidhi Singh Bhadoria's streak stats" />
