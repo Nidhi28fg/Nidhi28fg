@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Nidhi Singh Bhadoria. I'm interested in the field of web development, and I'm currently learning HTML, CSS, Tailwind, Javascript, and React.js. I'm eager to collaborate on projects.
-- 📫 How to reach me ...you can contant on my email-id teamguffonidhi28@gmail.com
+- 📫 How to reach me ...You can contact me on my email address, teamguffonidhi28@gmail.com. I look forward to hearing from you!
 ## GitHub Stats & Most Used Languages
 
 ## Streak Stats
