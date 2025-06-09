@@ -18,5 +18,5 @@
 
 ## Contributions Graph
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nidhi28fg&theme=react-dark" alt="Nidhi Singh Bhadoria's contributions graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nidhi28fg&theme=light" alt="Nidhi Singh Bhadoria's contributions graph" />
 </div>
