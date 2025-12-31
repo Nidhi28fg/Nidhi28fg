@@ -24,6 +24,17 @@ Tools & Platforms: Git, GitHub, Vercel, Netlify
 ![Nidhi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical&hide_border=true)
 
 
+**Fix #1: Direct Link Use Karo**
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhi28f&theme=light" alt="Nidhi28f GitHub trophies">
+
+**Fix #2: Self-Hosted Alternative**
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhi28f&show_icons=true&theme=light">
+
+**Fix #3: Cache Bypass**
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhi28f&theme=light&t=12345">
+
+
+
 
 ## Contributions Graph
 <div align="center">
