@@ -27,6 +27,9 @@ Tools & Platforms: Git, GitHub, Vercel, Netlify
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical&hide_border=true)](https://github.com/Nidhi28fg)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nidhi28fg&theme=dark)](https://github.com/Nidhi28fg)
+
+
 
 ## Contributions Graph
 
