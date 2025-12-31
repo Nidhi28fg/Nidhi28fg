@@ -21,9 +21,6 @@ Tools & Platforms: Git, GitHub, Vercel, Netlify
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical)
 
-## 👨‍💻 GitHub Stats
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nidhi28fg.readme)
-
 ## Contributions Graph
 
 [![Nidhi28f's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi28fg&theme=react-dark)](https://github.com/Nidhi28fg)
