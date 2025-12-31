@@ -23,18 +23,14 @@ Tools & Platforms: Git, GitHub, Vercel, Netlify
 
 ## 👨‍💻 GitHub Stats
 
-[![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&theme=radical&hide_border=true)](https://github.com/Nidhi28f)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical&hide_border=true)](https://github.com/Nidhi28f)
-
-[![Nidhi28f's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi28fg&theme=react-dark)](https://github.com/Nidhi28f)
+[![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&theme=radical&hide_border=true)](https://github.com/Nidhi28fg)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical&hide_border=true)](https://github.com/Nidhi28fg)
 
 
 
 ## Contributions Graph
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nidhi28fg&theme=light" alt="Nidhi Singh Bhadoria's contributions graph" />
-</div>
 
+[![Nidhi28f's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi28fg&theme=react-dark)](https://github.com/Nidhi28fg)
 
 
 ### 💻 Skills & Technologies
