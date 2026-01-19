@@ -20,7 +20,6 @@ Tools & Platforms: Git, GitHub, Vercel, Netlify
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical)
-![Nidhi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28f&layout=compact&theme=radical)
 
 
 ## Contributions Graph
