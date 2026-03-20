@@ -1,36 +1,77 @@
-## Hi there, I'm Nidhi Singh Bhadoria 👋
-I am a passionate Web Developer dedicated to building responsive, user-friendly applications. I thrive on turning complex problems into elegant code and am always looking for opportunities to collaborate on innovative projects.
+# Hi there, I'm **Nidhi Singh Bhadoria** 👋  
+🚀 *Frontend Engineer | React & Next.js Specialist | Passionate Problem Solver*
 
-## 🛠️ My Tech Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+I am a dedicated Web Developer focused on building **responsive, scalable, and user‑friendly applications**. My strength lies in transforming complex challenges into elegant solutions, and I thrive in collaborative environments where innovation meets execution.  
 
-Styling: Tailwind CSS, Bootstrap
+---
 
-Tools & Platforms: Git, GitHub, Vercel, Netlify
+## 🛠️ Tech Stack & Tools  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Version Control & Deployment:** Git, GitHub, Vercel, Netlify  
 
-## GitHub Stats & Most Used Languages
+---
 
-## Streak Stats
+## 📊 GitHub Insights  
+
+### 🔥 Streak Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg&theme=dark&hide_border=true" alt="Nidhi Singh Bhadoria's streak stats" />
 </p>
 
-## GitHub Stats
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true&theme=radical)
+### ⚡ GitHub Stats  
+`https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true&theme=radical`
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical)
+### 🌐 Most Used Languages  
+`https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical`
 
+---
 
-## Contributions Graph
+## 📈 Contributions Graph  
+[`https://github.com/Nidhi28fg`](https://github.com/Nidhi28fg)
 
-[![Nidhi28f's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi28fg&theme=react-dark)](https://github.com/Nidhi28fg)
+---
 
+## 💻 Skills & Technologies  
+`https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white`  
+`https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white`  
+`https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black`  
+`https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB`  
+`https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white`  
+`https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white`  
 
-### 💻 Skills & Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+## 🚀 Featured Projects  
+
+### 📌 Internship Website  
+**Tech:** React and JavaScript, HTML, CSS  
+- Built a responsive internship portal with clean UI and smooth navigation.  
+- Focused on accessibility and performance optimization to ensure a seamless user experience.  
+- Demonstrated ability to translate requirements into functional, production‑ready code.  
+
+---
+
+### 📌 SuvidhaShare (Open Source Contribution)  
+**Tech:** JavaScript, React.js  and tailwind css
+- Contributed to an open‑source platform by **Suvidha Foundation** aimed at reducing food waste.  
+- Implemented features for redistributing surplus food through “Surprise Bags.”  
+- Showcased collaboration skills by working with a diverse team of contributors.  
+
+---
+
+### 📌 Renu Sharma Foundation Website (Frontend)  
+**Tech:** React and tailwind css 
+- Developed the frontend for a non‑profit organization’s website.  
+- Delivered a responsive design with clear content hierarchy to improve engagement.  
+- Reinforced expertise in building scalable, maintainable codebases for real‑world projects.  
+
+---
+
+### 📌 EasePrint2024  
+**Tech:** .Net and Bootstrap  
+- Designed and developed a **print‑on‑demand platform** with modern UI components.  
+- Focused on performance, scalability, and intuitive user workflows.  
+- Demonstrated ability to merge technical precision with business impact.  
+
+---
+
