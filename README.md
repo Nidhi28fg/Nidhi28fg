@@ -19,8 +19,10 @@ I am a dedicated Web Developer focused on building **responsive, scalable, and u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg&theme=dark&hide_border=true" alt="Nidhi Singh Bhadoria's streak stats" />
 </p>
 
-### ⚡ GitHub Stats  
-`https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true&theme=radical`
+### ⚡ GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true&theme=radical />
+</p>
 
 ### 🌐 Most Used Languages  
 `https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical`
@@ -46,13 +48,13 @@ I am a dedicated Web Developer focused on building **responsive, scalable, and u
 ### 📌 Internship Website  
 **Tech:** React and JavaScript, HTML, CSS  
 - Built a responsive internship portal with clean UI and smooth navigation.  
-- Focused on accessibility and performance optimization to ensure a seamless user experience.  
+- Focused on accessibility and performance optimisation to ensure a seamless user experience.  
 - Demonstrated ability to translate requirements into functional, production‑ready code.  
 
 ---
 
 ### 📌 SuvidhaShare (Open Source Contribution)  
-**Tech:** JavaScript, React.js  and tailwind css
+**Tech:** JavaScript, React.js  and Tailwind CSS
 - Contributed to an open‑source platform by **Suvidha Foundation** aimed at reducing food waste.  
 - Implemented features for redistributing surplus food through “Surprise Bags.”  
 - Showcased collaboration skills by working with a diverse team of contributors.  
@@ -60,9 +62,9 @@ I am a dedicated Web Developer focused on building **responsive, scalable, and u
 ---
 
 ### 📌 Renu Sharma Foundation Website (Frontend)  
-**Tech:** React and tailwind css 
-- Developed the frontend for a non‑profit organization’s website.  
-- Delivered a responsive design with clear content hierarchy to improve engagement.  
+**Tech:** React and Tailwind CSS 
+- Developed the frontend for a non‑profit organisation’s website.  
+- Delivered a responsive design with a clear content hierarchy to improve engagement.  
 - Reinforced expertise in building scalable, maintainable codebases for real‑world projects.  
 
 ---
