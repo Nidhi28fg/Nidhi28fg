@@ -19,28 +19,28 @@ I am a dedicated Web Developer focused on building **responsive, scalable, and u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi28fg&theme=dark&hide_border=true" alt="Nidhi Singh Bhadoria's streak stats" />
 </p>
 
-### ⚡ GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&count_private=true&theme=radical />
-</p>
+## ⚡ GitHub Stats
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi28fg&show_icons=true&theme=radical)
 
-### 🌐 Most Used Languages  
-`https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical`
+## 🌐 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi28fg&layout=compact&theme=radical)
+
+
+
+## 📈 Contributions Graph
+
+![Nidhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi28fg&bg_color=ffffff&color=000000&line=4CAF50&point=1E90FF&area=true&hide_border=true)
 
 ---
 
-## 📈 Contributions Graph  
-[`https://github.com/Nidhi28fg`](https://github.com/Nidhi28fg)
+## 💻 Skills & Technologies
 
----
-
-## 💻 Skills & Technologies  
-`https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white`  
-`https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white`  
-`https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black`  
-`https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB`  
-`https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white`  
-`https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white`  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 ## 🚀 Featured Projects  
