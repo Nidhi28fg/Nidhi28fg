@@ -77,3 +77,4 @@ I am a dedicated Web Developer focused on building **responsive, scalable, and u
 
 ---
 
+<img width="1919" height="1157" alt="image" src="https://github.com/user-attachments/assets/3ec98b96-6b6a-42b2-b511-d9c6e841848e" />
